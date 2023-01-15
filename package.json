@@ -1,0 +1,19 @@
+{
+  "name": "vietnamese-license-plate-number",
+  "version": "1.0.2",
+  "description": "\"IS the string WDS?\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bacoortuantu/is-wds-npm-pac.git"
+  },
+  "author": "tuantu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bacoortuantu/is-wds-npm-pac/issues"
+  },
+  "homepage": "https://github.com/bacoortuantu/is-wds-npm-pac#readme"
+}
